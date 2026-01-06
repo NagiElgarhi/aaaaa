@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio Hub Viewer",
+  "description": "A high-end dashboard to explore and view Google AI Studio applets, featuring an integrated Gemini assistant for context and guidance.",
+  "requestFramePermissions": []
+}
